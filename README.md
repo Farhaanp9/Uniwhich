@@ -6,3 +6,5 @@ students in his dorm as a side venture of his own. The problem for Mr.ABC is tha
 that he receives his hard to organize and set up with his college work schedule. With the stress
 of college work, getting more customers for his sandwiches is hard. He requires an organized
 system for people to order his product with certain requirements at specified hours.
+
+Thus, the way to solve this problem is with an IT solution. So I decided to build and develop a website to solve the problems that Mr.ABC has.
